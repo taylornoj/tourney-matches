@@ -8,6 +8,6 @@ function PlayerList() {
         <Player />
       </section>
   );
-};
+}
 
 export default PlayerList;

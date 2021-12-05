@@ -8,6 +8,6 @@ function MatchList() {
     <Match />
     </section>
   );
-};
+}
 
 export default MatchList;
