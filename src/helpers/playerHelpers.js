@@ -1,5 +1,6 @@
   // input: playerData
 export const preparePlayerData = (playerData) => {
+  console.log(Object.values(playerData));
   return Object.values(playerData);
 }
  // output: [{player}, {player}]
